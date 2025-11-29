@@ -1,0 +1,2 @@
+# CapybaraClicker
+крутое приложение
